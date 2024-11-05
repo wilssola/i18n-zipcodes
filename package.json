@@ -1,6 +1,6 @@
 {
   "name": "i18n-zipcodes",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "International zipcodes validator based on Regex for Node.js and the browser.",
   "keywords": [
     "i18n",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarcadass/i18n-zipcodes.git"
+    "url": "git+https://github.com/wilssola/i18n-zipcodes.git"
   },
   "directories": {
     "test": "test"
